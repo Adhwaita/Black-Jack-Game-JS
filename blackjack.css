@@ -1,0 +1,56 @@
+body {
+    font-family: "sans-serif"; 
+    background: rgb(36, 128, 36);
+}
+
+
+
+h1 {
+    color : goldenrod;
+    text-align : center;
+    font-weight: 900; 
+    font-size: 55px;
+} 
+
+#message-element {
+    color: white; 
+    font-style: italic; 
+    text-align:center; 
+    font-weight: 400; 
+    font-size: 40px;
+} 
+
+#card-element{
+    color:white; 
+    text-align:center ;
+    font-size: 30px;;
+
+} 
+
+#sum-element{
+    color:white; 
+    text-align: center; 
+    font-size:30px
+}
+
+button{
+    color: #016f32; 
+    width: 150px; 
+    background: goldenrod; 
+    padding-top: 10px; 
+    padding-bottom: 10px; 
+    font-weight: 400px; 
+    border: none;  
+    margin: 20px; 
+    border-radius:2px; 
+    font-weight: bolder;
+    transform:translate(320px,30px)
+    
+}  
+
+#player-element { 
+    color: white;
+    font-weight:bold;
+    transform:translate(440px,200px); 
+    font-size: 25px
+}
